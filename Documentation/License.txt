@@ -1,0 +1,24 @@
+ * Copyright 2009-2010 MyBBWebHost, all rights reserved.
+
+* http://www.mybbwebhost.com
+
+
+License:
+
+You may:
+
+- Install this plugin on your own installation of MyBB.
+- Edit this plugin for your own personal needs.
+- Remove visible page copyright (setting in Admin CP).
+
+You may not:
+
+- Distribute this plugin.
+- Edit/modify this plugin and then distribute it.
+- Remove in-file copyrights.
+- Claim this plugin as your own work.
+
+Plugin is provided as-is.  The plugin author and MyBBWebHost is not responsible for any damages done to your board through use (indirect or direct) of this plugin.  Use at your own risk.
+
+
+
